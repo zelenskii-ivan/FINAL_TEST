@@ -1,0 +1,15 @@
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/bin/Debug/net6.0/FINAL_TEST
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/bin/Debug/net6.0/FINAL_TEST.deps.json
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/bin/Debug/net6.0/FINAL_TEST.runtimeconfig.json
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/bin/Debug/net6.0/FINAL_TEST.dll
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/bin/Debug/net6.0/FINAL_TEST.pdb
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.csproj.AssemblyReference.cache
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.AssemblyInfoInputs.cache
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.AssemblyInfo.cs
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.csproj.CoreCompileInputs.cache
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.dll
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/refint/FINAL_TEST.dll
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.pdb
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/FINAL_TEST.genruntimeconfig.cache
+/Users/ivanzelenskiy/Desktop/FINAL_TEST/obj/Debug/net6.0/ref/FINAL_TEST.dll
